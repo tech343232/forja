@@ -1,0 +1,13 @@
+{
+  "_nota": "Esta es la plantilla. Copia este archivo a TU repo PRIVADO de licencias. Nunca lo subas a un repo publico.",
+  "licencias": [
+    {
+      "codigo": "FORJA-A1B2-C3D4-E5F6",
+      "cliente": "ejemplo@correo.com",
+      "estado": "activo",
+      "equipo": null,
+      "creada": "2026-01-01",
+      "activada": null
+    }
+  ]
+}
