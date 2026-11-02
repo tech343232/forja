@@ -17,7 +17,7 @@ construye todo el sistema de distribución para tu propia aplicación (Windows y
 ## Cómo se usa (2 pasos)
 
 1. Abre **tu proyecto** (la app que quieres empaquetar) en Claude Code.
-2. Copia **todo** el contenido de [`GENERAR.md`](GENERAR.md) y pégalo en el chat.
+2. Copia **todo** el contenido de [`GENERAR.md`](https://github.com/tech343232/forja/blob/main/GENERAR.md) y pégalo en el chat.
 
 Claude empezará preguntándote lo básico (nombre, tecnología, a quién se lo compartes) y
 construirá el sistema por fases. Si usas Claude Code con comandos, también puedes copiar
@@ -80,3 +80,16 @@ tu tecnología y elige el empaquetador correcto.
 hace sobre el build, no sobre tu código fuente, y verifica que todo siga funcionando.
 
 **¿GitHub cobra por esto?** No. Un repo privado y un token personal son gratis.
+
+---
+
+## Compártelo
+
+- Página del repo: https://github.com/tech343232/forja
+- Enlace directo al prompt que se copia: https://github.com/tech343232/forja/blob/main/GENERAR.md
+
+---
+
+## Licencia
+
+MIT — eres libre de usar, copiar, modificar y distribuir FORJA. Ver [`LICENSE`](LICENSE).
